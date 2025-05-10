@@ -5,7 +5,7 @@ const html = htm.bind(h);
 
 // Icon Image Assets
 const icons = {
-  azucar: "/a/7d7ef84a-0c5e-4d33-b7fe-214a34bed563",
+  azucar: "https://img.icons8.com/ios-filled/48/609aff/glucose-meter.png",
   imc: "https://img.icons8.com/ios-filled/48/609aff/scales.png",
   medic: "https://img.icons8.com/ios-filled/48/609aff/pill.png",
   pasos: "https://img.icons8.com/ios-filled/48/609aff/walking.png",
