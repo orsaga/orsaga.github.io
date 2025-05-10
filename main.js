@@ -5,7 +5,7 @@ const html = htm.bind(h);
 
 // Icon Image Assets
 const icons = {
-  azucar: "https://www.flaticon.es/icono-gratis/medidor-de-glucosa_4228683?term=glucosa&page=1&position=2&origin=tag&related_id=4228683",
+  azucar: "https://cdn-icons-png.flaticon.com/512/5939/5939845.png",
   imc: "https://img.icons8.com/ios-filled/48/609aff/scales.png",
   medic: "https://img.icons8.com/ios-filled/48/609aff/pill.png",
   pasos: "https://img.icons8.com/ios-filled/48/609aff/walking.png",
